@@ -1,4 +1,4 @@
-## Bonjour! 👋 I'm Ruqaiya Electricwala
+<h1 align="center"> Bonjour! 👋 I'm Ruqaiya Electricwala </h1>
 
 I'm a **Full-Stack Developer** with a unique journey—from teaching French in India to **coding in San Jose**! My passion for continuous learning, problem-solving, and creativity has driven me to transition into the world of **software engineering**.
 
