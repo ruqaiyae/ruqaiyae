@@ -1,6 +1,11 @@
 <h1 align="center"> Bonjour! 👋 I'm Ruqaiya Electricwala </h1>
 
-I'm a **Full-Stack Developer** with a unique journey—from teaching French in India to **coding in San Jose**! My passion for continuous learning, problem-solving, and creativity has driven me to transition into the world of **software engineering**.
+<p align="center" style="font-size: 22px; font-weight: bold;">
+  I'm a <strong>Full-Stack Developer</strong> with a unique journey—from teaching French in India to <strong>coding in San Jose</strong>! 
+</p>
+<p align="center">
+My passion for continuous learning, problem-solving, and creativity has driven me to transition into the world of <strong>software engineering</strong>.
+  </p>
 
 &nbsp;
 ### ✨ About Me
@@ -41,7 +46,7 @@ I'm a **Full-Stack Developer** with a unique journey—from teaching French in I
 &nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruqaiyae&layout=compact&theme=default&bg_color=ffffff" width="500px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruqaiyae&layout=compact&theme=default&bg_color=ffffff" width="400px ">
 </a>
 
 
