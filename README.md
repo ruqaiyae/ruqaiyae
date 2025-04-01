@@ -3,11 +3,8 @@
 <p align="center" style="font-size: 22px; font-weight: bold;">
   I'm a <strong>Full-Stack Developer</strong> with a unique journey—from teaching French in India to <strong>coding in San Jose</strong>! 
 </p>
-<p align="center">
 My passion for continuous learning, problem-solving, and creativity has driven me to transition into the world of <strong>software engineering</strong>.
-  </p>
 
-&nbsp;
 ### ✨ About Me
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJxdms2dzk2Mnc2OXplejdxc3I4Mmhhb205ZzB0cjFmODN2YXNqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" align="right" width="30%" style="max-width: 100%; border: none; box-shadow: none;" />
