@@ -52,7 +52,7 @@
 ### 📬 Let's Connect!
 
 [![Gmail][gmail-img]](mailto:ruqaiyaelectricwala@gmail.com)  
-[![LinkedIn][linkedin-img]](https://www.linkedin.com/in/ruqaiyaelectricwala)  
+[![LinkedIn][linkedin-img]](https://www.linkedin.com/in/ruqaiya-electricwala)  
 
 <!-- Badge References -->
 [gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white  
