@@ -3,7 +3,9 @@
 <p align="center" style="font-size: 22px; font-weight: bold;">
   I'm a <strong>Full-Stack Developer</strong> with a unique journey—from teaching French in India to <strong>coding in San Jose</strong>! 
 </p>
-My passion for continuous learning, problem-solving, and creativity has driven me to transition into the world of <strong>software engineering</strong>.
+
+My passion for continuous learning, problem-solving, and creativity has driven me to transition into the world of \
+**software engineering**, enabling me to build technology that makes an impact.
 
 ### ✨ About Me
 
