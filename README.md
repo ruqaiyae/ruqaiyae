@@ -1,11 +1,10 @@
 <h1 align="center"> Bonjour! 👋 I'm Ruqaiya Electricwala </h1>
 
 <p align="center" style="font-size: 22px; font-weight: bold;">
-  I'm a <strong>Full-Stack Developer</strong> with a unique journey—from teaching French in India to <strong>coding in San Jose</strong>! 
+  I'm a <strong>Full-Stack Developer</strong> with a unique journey—from teaching French in India to <strong>coding in San Jose</strong>! <br><br>
+  My passion for continuous learning, problem-solving, and creativity has driven me to transition into the world of <br>
+  <strong>software engineering</strong>, enabling me to build technology that makes an impact.
 </p>
-
-My passion for continuous learning, problem-solving, and creativity has driven me to transition into the world of \
-**software engineering**, enabling me to build technology that makes an impact.
 
 ### ✨ About Me
 
