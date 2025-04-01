@@ -4,6 +4,10 @@ I'm a **Full-Stack Developer** with a unique journey—from teaching French in I
 
 &nbsp;
 ### ✨ About Me
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJxdms2dzk2Mnc2OXplejdxc3I4Mmhhb205ZzB0cjFmODN2YXNqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" align="right" width="30%" style="max-width: 100%; border: none; box-shadow: none;" />
+
+
 🚀 I love learning new technologies and tackling challenging problems.
 
 📚 My background in education has sharpened my analytical thinking, patience, and ability to break down complex concepts—all invaluable in tech!
